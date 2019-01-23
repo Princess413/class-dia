@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title></title>
+<title>Class Diagram</title>
 </head>
 <body>
 <img src="classdia.jpg">
